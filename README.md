@@ -3,6 +3,11 @@ Code to model the mechanics of RAndom FIlament NEtworks.
 This repository is tightly related to a paper submitted for publication in International Journal of Solids and Structures.
 Please, find all relevant information there.
 
+This code was written by:</br>
+György Károlyi</br>
+Róbert K. Németh</br>
+Flórián Kovács</br>
+
 Files:</br>
 rafine.c - Source code, computes the equlibrium configuration of a random network of elastic filaments.</br>
 results.dat - Data processed from the output of many runs of rafine.c with varied parameters, not including anizotropy.</br>
