@@ -1,7 +1,8 @@
 # RaFiNe
 Code to model the mechanics of RAndom FIlament NEtworks.
-This repository is tightly related to a paper submitted for publication in International Journal of Solids and Structures.
-Please, find all relevant information there.
+This repository is tightly related to a paper accepted for publication in International Journal of Solids and Structures.
+Please, find all relevant information in the paper:
+https://authors.elsevier.com/sd/article/S0020-7683(25)00362-2
 
 This code was written by:</br>
 György Károlyi</br>
