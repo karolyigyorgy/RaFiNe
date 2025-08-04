@@ -1,8 +1,13 @@
 # RaFiNe
 Code to model the mechanics of RAndom FIlament NEtworks.
-This repository is tightly related to a paper accepted for publication in International Journal of Solids and Structures.
-Please, find all relevant information in the paper:
-https://authors.elsevier.com/sd/article/S0020-7683(25)00362-2
+This repository is tightly related to a paper published in International Journal of Solids and Structures:
+
+Róbert K. Németh, András Á. Sipos, Layth S. Al-Rukaibawi, Lili E. Hlavicka-Laczák, Flórián Kovács, György Károlyi:</br>
+Local shear stiffness switches between bending- and stretch-dominated regimes of a random net of elastic filaments.</br>
+International Journal of Solids and Structures 321 (2025) 113576.</br>
+https://doi.org/10.1016/j.ijsolstr.2025.113576
+
+Please, find all relevant information in the paper.
 
 This code was written by:</br>
 György Károlyi</br>
